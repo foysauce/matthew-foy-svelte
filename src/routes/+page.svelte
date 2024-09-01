@@ -2,10 +2,25 @@
 	import { Button } from '$lib/components/ui/button';
 </script>
 
-<Button>Click me</Button>
-<p class="font-roboto text-primary">Hello world</p>
-<p class="font-sans text-primary">Hello world</p>
-<p class=" text-primary">Hello world</p>
-
-<h1 class="text-4xl">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="py-10">
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+	<p class="text-9xl">Hello world</p>
+</div>
